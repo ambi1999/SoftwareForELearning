@@ -1,0 +1,12 @@
+en,AU,hyph_en_GB,English (Australia),hyph_en_GB.zip
+en,BZ,hyph_en_GB,English (Belize),hyph_en_GB.zip
+en,CA,hyph_en_CA,English (Canada),hyph_en_GB.zip
+en,IE,hyph_en_GB,English (Ireland),hyph_en_GB.zip
+en,JM,hyph_en_GB,English (Jamaica),hyph_en_GB.zip
+en,NZ,hyph_en_GB,English (New Zealand),hyph_en_GB.zip
+en,PH,hyph_en_GB,English (Philippines),hyph_en_GB.zip
+en,ZA,hyph_en_GB,English (South Africa),hyph_en_GB.zip
+en,TT,hyph_en_GB,English (Trinidad and Tobago),hyph_en_GB.zip
+en,GB,hyph_en_GB,English (United Kingdom),hyph_en_GB.zip
+en,US,hyph_en_US,English (United States),hyph_en_US.zip
+en,ZW,hyph_en_GB,English (Zimbabwe),hyph_en_GB.zip
